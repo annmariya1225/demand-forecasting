@@ -7,8 +7,6 @@ env/
 
 .ipynb_checkpoints/
 
-outputs/
-*.png
 !docs/*.png
 
 .DS_Store
