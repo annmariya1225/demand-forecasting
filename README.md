@@ -27,7 +27,7 @@ demand-forecasting/
 Clone the repo and install the dependencies. Using a virtual environment is recommended.
 
 ```bash
-git clone https://github.com/<your-username>/demand-forecasting.git
+git clone https://github.com/annmariya1225/demand-forecasting.git
 cd demand-forecasting
 
 python -m venv venv
